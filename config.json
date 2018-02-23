@@ -1,8 +1,0 @@
-{
-  "token": "MTY4MzM1NDA2MTI1OTQwNzM2.DXF1tA.NS8X3GlGUCX_ut6AQV7uKbn0w78",
-  "bot": {
-    "plugins": [
-      "plugins.tutorial"
-    ]
-  }
-}
